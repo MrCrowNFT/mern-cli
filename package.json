@@ -1,0 +1,17 @@
+{
+  "name": "mern-cli",
+  "version": "1.0.0",
+  "description": "Mern stack quick start",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "inquirer": "^12.6.3"
+  }
+}
